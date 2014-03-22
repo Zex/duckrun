@@ -1,0 +1,11 @@
+QT application, generate pdf from database requests
+
+Requires
+- Qt 4.8
+- Nginx
+- Mysql
+- Mysql-devel
+- Php
+
+Author
+	Zex <top_zlynch@yahoo.com>
